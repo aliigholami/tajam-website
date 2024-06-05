@@ -1,0 +1,20 @@
+#sec{
+    display: flex;
+}
+#sec-2 > h2{
+    text-align: right;
+}
+#sec-2{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+#sec-2 > p{
+    text-align: right;
+}
+#sec-1 > img{
+    margin-top: 19.92px;
+    margin-left: 80%;
+}
+#btn2{
+    margin-bottom: 5%;
+}
